@@ -1,12 +1,2 @@
 [ignore]
 .*/node_modules/electron-packager/test/fixtures/infer-malformed-json/package.json
-
-[include]
-
-[libs]
-
-[lints]
-
-[options]
-
-[strict]
